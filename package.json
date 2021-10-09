@@ -13,7 +13,7 @@
   "license": "Apache License v2",
   "dependencies": {
     "uglify-js": "~2.3.6",
-    "clean-css": "~1.0.11",
+    "clean-css": "~1.1.7",
     "promisesaplus": "~1.0.1",
     "nunjucks": "~0.1.9",
     "lodash": "~1.3.1",
