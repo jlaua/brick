@@ -12,7 +12,7 @@
   "author": "Mozilla",
   "license": "Apache License v2",
   "dependencies": {
-    "uglify-js": "~2.3.6",
+    "uglify-js": "~2.8.16",
     "clean-css": "~1.0.11",
     "promisesaplus": "~1.0.1",
     "nunjucks": "~0.1.9",
